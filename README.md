@@ -177,7 +177,7 @@ Pull request dan issue sangat diterima. Silakan fork repository ini lalu ajukan 
 
 ## 📄 Lisensi
 
-Belum ditentukan. Tambahkan file `LICENSE` (misalnya MIT) sesuai kebutuhan.
+Proyek ini dirilis di bawah lisensi [MIT](LICENSE).
 
 ## 👤 Author
 
